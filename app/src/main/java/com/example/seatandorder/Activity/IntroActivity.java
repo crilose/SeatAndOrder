@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.seatandorder.MainActivity;
 import com.example.seatandorder.R;
 
 public class IntroActivity extends AppCompatActivity {

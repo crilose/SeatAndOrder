@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/drawable/pink_button_background.xml" value="0.1" />
+        <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/drawable/search_back.xml" value="0.16944444444444445" />
         <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/layout/activity_intro.xml" value="0.22" />
-        <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
