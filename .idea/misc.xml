@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable-v24/category_background2.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable-v24/category_background3.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable-v24/category_background4.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable-v24/category_background5.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable/cat_1.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable/category_background1.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable/viewholder.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/drawable/viewholder_cat.xml" value="0.3828125" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/layout/activity_intro.xml" value="0.2957427536231884" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Desktop/UNIVERSITA/PROGRAMMAZIONE 3/Progetto/app/src/main/res/layout/viewholder_cat.xml" value="0.5" />
         <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/drawable/pink_button_background.xml" value="0.1" />
         <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/drawable/search_back.xml" value="0.16944444444444445" />
         <entry key="..\:/Users/crilo/AndroidStudioProjects/SeatAndOrder/app/src/main/res/layout/activity_intro.xml" value="0.22" />
