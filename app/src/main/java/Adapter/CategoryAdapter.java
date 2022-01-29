@@ -35,37 +35,36 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
     holder.categoryName.setText((categoryDomains.get(position).getTitle()));
-    String picUrl = "";
     int resId = 0;
     switch (position){
         case 0:{
-            picUrl="cat_1";
             holder.mainLayout.setBackground(ContextCompat.getDrawable((holder.itemView.getContext()), R.drawable.category_background1));
             resId = R.drawable.cat_1;
+            break;
         }
         case 1:{
-            picUrl="cat_2";
             holder.mainLayout.setBackground(ContextCompat.getDrawable((holder.itemView.getContext()), R.drawable.category_background2));
             resId = R.drawable.cat_2;
+            break;
         }
         case 2:{
-            picUrl="cat_3";
             holder.mainLayout.setBackground(ContextCompat.getDrawable((holder.itemView.getContext()), R.drawable.category_background3));
             resId = R.drawable.cat_3;
+            break;
         }
         case 3:{
-            picUrl="cat_4";
             holder.mainLayout.setBackground(ContextCompat.getDrawable((holder.itemView.getContext()), R.drawable.category_background4));
             resId = R.drawable.cat_4;
+            break;
         }
         case 4:{
-            picUrl="cat_5";
             holder.mainLayout.setBackground(ContextCompat.getDrawable((holder.itemView.getContext()), R.drawable.category_background5));
             resId = R.drawable.cat_5;
+            break;
         }
     }
 
-    int drawableResourceId=holder.itemView.getContext().getResources().getIdentifier(picUrl, "drawable", holder.itemView.getContext().getPackageName());
+    //int drawableResourceId=holder.itemView.getContext().getResources().getIdentifier(picUrl, "drawable", holder.itemView.getContext().getPackageName());
 
     Glide.with(holder.itemView.getContext())
             .load(resId)
@@ -88,6 +87,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
             categoryName = itemView.findViewById(R.id.categoryName);
             categoryImg = itemView.findViewById(R.id.categoryImg);
             mainLayout = itemView.findViewById(R.id.mainLayout);
+
         }
     }
 }

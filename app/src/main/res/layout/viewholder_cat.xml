@@ -19,7 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/food_png_hd" />
+        app:srcCompat="@drawable/ak47" />
 
     <TextView
         android:id="@+id/categoryName"

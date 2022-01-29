@@ -62,7 +62,7 @@
             android:id="@+id/startbtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-light"
+            android:fontFamily="@font/roboto"
             android:text="Ordina Ora"
             android:textColor="#FFFFFF"
             android:textSize="34sp"
